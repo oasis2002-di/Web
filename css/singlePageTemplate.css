@@ -31,6 +31,12 @@ body {
 	align-content: center;
 	background-color: #000000;
 }
+header.imagenfondo
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 .hero_header {
 	color: #FFFFFF;
 	text-align: center;
